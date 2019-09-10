@@ -1,0 +1,4 @@
+include ':common'
+rootProject.name='MultiplatformApp'
+
+enableFeaturePreview('GRADLE_METADATA')
